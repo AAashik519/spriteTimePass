@@ -1,0 +1,26 @@
+.headers_slide{
+    margin-top: 10px;
+    
+}
+.headers_slide img{
+    height: 80vh   ;
+    width: 100%;
+    border-radius: 8px;
+}
+nav{
+    border-radius: 8px;
+}
+
+
+.card_width{
+    width:auto;
+    height: 300px;
+}
+/* .black_pink{
+    width: 24.5%;
+} */
+
+
+
+/* class = .class
+id == #id */
